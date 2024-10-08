@@ -23,9 +23,9 @@
   <h2>📞 Contato</h2>
     <p>Tem alguma dúvida ou sugestão? Fique à vontade para entrar em contato:</p>
     <ul>
-        <li><strong>Instagram:</strong> @mungangape</li>
+        <!-- <li><strong>Instagram:</strong> @mungangape</li> -->
         <li><strong>Email:</strong> munganga.pe@gmail.com.br</li>
-        <li><strong>Website:</strong> <a href="http://www.munganga.com.br">www.munganga.com.br</a></li>
+        <!-- <li><strong>Website:</strong> <a href="http://www.munganga.com.br">www.munganga.com.br</a></li> -->
     </ul>
 </body>
 </html>
