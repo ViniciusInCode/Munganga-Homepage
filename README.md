@@ -11,7 +11,7 @@
 
   <h2>🖼️ Logo do Munganga</h2>
     <img src="https://github.com/user-attachments/assets/d94bf612-a9fa-4ee6-bbf7-c043604736ca" width="20%" alt="Logo Munganga">
-    <img src="https://github.com/user-attachments/assets/402c5efd-15f6-4f62-87be-97ec4e5822d1" left="20px" width="20%" alt="Logo Munganga">
+    <img src="https://github.com/user-attachments/assets/402c5efd-15f6-4f62-87be-97ec4e5822d1" width="20%" alt="Logo Munganga">
 
   <h2>👥 Autores</h2>
     <ul>
