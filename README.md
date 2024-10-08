@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="https://github.com/Jvdev21">
+      <a href="https://github.com/Jvdev21" title="Perfil do Github" style="text-decoration: none;">
         <img src="https://avatars3.githubusercontent.com/Jvdev21" width="100px;" alt="Foto do Paulo vinícius no GitHub"/><br>
         <sub>
           <b>João Vitor</b>
@@ -22,7 +22,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o título do link">
+      <a href="https://github.com/ViniciusInCode" title="Perfil do Github" style="text-decoration: none;">
         <img src="https://avatars3.githubusercontent.com/ViniciusInCode" width="100px;" alt="Foto do Paulo vinícius no GitHub"/><br>
         <sub>
           <b>Paulo Vinícius</b>
@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="#" title="https://github.com/Wictor0">
+      <a href="https://github.com/Wictor0" title="Perfil do Github" style="text-decoration: none;">
         <img src="https://avatars3.githubusercontent.com/Wictor0" width="100px;" alt="Foto do Wictor no GitHub"/><br>
         <sub>
           <b>Wictor Melo</b>
@@ -44,8 +44,7 @@
 <p>Tem alguma dúvida ou sugestão? Fique à vontade para entrar em contato:</p>
     <ul>
         <!-- <li><strong>Instagram:</strong> @mungangape</li> -->
-        <li><strong>Email:</strong> munganga.pe@gmail.com.br</![Captura de tela 2024-10-08 122537]()
-li>
+        <li><strong>Email: </strong><a href="mailto:munganga.pe@gmail.com.br" style="text-decoration: none;">munganga.pe@gmail.com.br</a></li>
         <!-- <li><strong>Website:</strong> <a href="http://www.munganga.com.br">www.munganga.com.br</a></li> -->
     </ul>
 </body>
