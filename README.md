@@ -1,5 +1,9 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+![GitHub repo size](https://img.shields.io/github/repo-size/ViniciusInCode/homepage?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/ViniciusInCode/homepage?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ViniciusInCode/homepage?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ViniciusInCode/homepage?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ViniciusInCode/homepage?style=for-the-badge)
+
 <body>
     <h1>Munganga 🎮💻</h1>
     <p>
@@ -30,5 +34,4 @@
         <!-- <li><strong>Website:</strong> <a href="http://www.munganga.com.br">www.munganga.com.br</a></li> -->
     </ul>
 </body>
-</html>
 
