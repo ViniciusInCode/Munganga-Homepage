@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ViniciusInCode/homepage?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ViniciusInCode/homepage?style=for-the-badge)
 
-<img src="https://github.com/user-attachments/assets/4c083672-bb13-478a-95b6-feeefa535bc4" width="80%" alt="Logo Munganga">
+<img src="https://github.com/user-attachments/assets/4c083672-bb13-478a-95b6-feeefa535bc4" alt="Logo Munganga">
 
 > <strong>Munganga</strong> é uma plataforma inovadora de aprendizado de programação que combina <strong>gamificação</strong> e <strong>desafios lógicos</strong>, tornando o aprendizado mais divertido e acessível para crianças e adolescentes.
   
